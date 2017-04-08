@@ -1,0 +1,372 @@
+2017-03-30 21:50:29,420 [      1]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-03-30 21:50:29,445 [     26]   INFO -        #com.intellij.idea.Main - IDE: CLion (build #CL-171.3780.121, 27 Mar 2017 10:16) 
+2017-03-30 21:50:29,445 [     26]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-03-30 21:50:29,445 [     26]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b13 (JetBrains s.r.o) 
+2017-03-30 21:50:29,445 [     26]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b13 (OpenJDK 64-Bit Server VM) 
+2017-03-30 21:50:29,467 [     48]   INFO -        #com.intellij.idea.Main - JVM Args: -Xss2m -Xms256m -Xmx2000m -XX:NewSize=128m -XX:MaxNewSize=128m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\clion64.exe.vmoptions -Xbootclasspath/a:C:\Program Files (x86)\JetBrains\CLion 2017.1\lib\boot.jar -Didea.platform.prefix=CLion -Didea.paths.selector=CLion2017.1 -XX:ErrorFile=C:\Users\austi\java_error_in_clion_%p.log -XX:HeapDumpPath=C:\Users\austi\java_error_in_clion.hprof 
+2017-03-30 21:50:29,468 [     49]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files (x86)\JetBrains\CLion 2017.1\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-03-30 21:50:29,468 [     49]   INFO -        #com.intellij.idea.Main - JNU charset: Cp1252 
+2017-03-30 21:50:29,518 [     99]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 49 ms 
+2017-03-30 21:50:29,522 [    103]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-03-30 21:50:29,524 [    105]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-03-30 21:50:32,781 [   3362]   INFO -        #com.jetbrains.cidr.cpp - Looking for MinGW... 
+2017-03-30 21:50:32,853 [   3434]   INFO -        #com.jetbrains.cidr.cpp - Looking for MinGW on C:\... 
+2017-03-30 21:50:32,863 [   3444]   INFO -        #com.jetbrains.cidr.cpp - Looking for MinGW on D:\... 
+2017-03-30 21:50:35,432 [   6013]   INFO -        #com.jetbrains.cidr.cpp - MinGW not found 
+2017-03-30 21:50:35,432 [   6013]   INFO -        #com.jetbrains.cidr.cpp - Looking for Cygwin... 
+2017-03-30 21:50:35,433 [   6014]   INFO -        #com.jetbrains.cidr.cpp - Looking for Cygwin on C:\... 
+2017-03-30 21:50:35,452 [   6033]   INFO -        #com.jetbrains.cidr.cpp - Looking for Cygwin on D:\... 
+2017-03-30 21:50:35,466 [   6047]   INFO -        #com.jetbrains.cidr.cpp - Cygwin not found 
+2017-03-30 21:50:36,265 [   6846]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-js-support.xml 
+2017-03-30 21:50:36,288 [   6869]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2017-03-30 21:50:37,338 [   7919]   INFO -        #com.jetbrains.cidr.cpp - Cannot read GDB version:
+ 
+2017-03-30 21:51:30,906 [  61487]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-js-support.xml 
+2017-03-30 21:51:30,906 [  61487]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2017-03-30 21:51:31,426 [  62007]   INFO - llij.ide.plugins.PluginManager - 26 plugins initialized in 705 ms 
+2017-03-30 21:51:31,441 [  62022]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CSS Support (171.3780.121), CVS Integration (11), CoffeeScript (2.0), Git Integration (8.1), GitHub (171.3780.121), HTML Tools (2.0), IDEA CORE (171.3780.121), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (171.3780.121), Perforce Integration (2.0), PyCharm Community Edition for CLion (171.3780.121), REST Client (171.3780.121), Remote Hosts Access (0.1), Sass support (171.3780.121), Settings Repository (171.3780.121), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Task Management (1.0), Terminal (0.1), Time Tracking (1.0), XPathView + XSLT Support (4), YAML (171.3780.121), hg4idea (10.0) 
+2017-03-30 21:51:34,158 [  64739]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\austi\.CLion2017.1\system\caches\names.dat' does not exist 
+2017-03-30 21:51:34,167 [  64748]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1967 
+2017-03-30 21:51:34,286 [  64867]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\fsnotifier64.exe 
+2017-03-30 21:51:34,483 [  65064]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-03-30 21:51:36,425 [  67006]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2017-03-30 21:51:36,425 [  67006]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2017-03-30 21:51:37,507 [  68088]   INFO - figurations.GeneralCommandLine - Cannot run program "C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\java": CreateProcess error=2, The system cannot find the file specified 
+java.io.IOException: Cannot run program "C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\java": CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at com.intellij.execution.configurations.GeneralCommandLine.startProcess(GeneralCommandLine.java:374)
+	at com.intellij.execution.configurations.GeneralCommandLine.createProcess(GeneralCommandLine.java:360)
+	at com.intellij.execution.process.OSProcessHandler.<init>(OSProcessHandler.java:45)
+	at com.intellij.execution.process.CapturingProcessHandler.<init>(CapturingProcessHandler.java:38)
+	at com.intellij.execution.util.ExecUtil.execAndGetOutput(ExecUtil.java:100)
+	at com.intellij.util.JdkBundle.a(JdkBundle.java:220)
+	at com.intellij.util.JdkBundle.createBundle(JdkBundle.java:92)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:125)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:113)
+	at com.intellij.ide.SystemHealthMonitor.a(SystemHealthMonitor.java:86)
+	at com.intellij.ide.SystemHealthMonitor.initComponent(SystemHealthMonitor.java:75)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.a(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.idea.MainImpl$1$1.a(MainImpl.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:386)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:137)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 44 more
+2017-03-30 21:51:37,751 [  68332]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2017-03-30 21:51:37,804 [  68385]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-03-30 21:51:38,489 [  69070]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:457 
+2017-03-30 21:51:38,520 [  69101]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:19 
+2017-03-30 21:51:38,795 [  69376]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:238 
+2017-03-30 21:51:38,808 [  69389]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:13 
+2017-03-30 21:51:39,105 [  69686]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-03-30 21:51:40,941 [  71522]   INFO - plication.impl.ApplicationImpl - 81 application components initialized in 10220ms 
+2017-03-30 21:51:41,004 [  71585]   INFO - .intellij.idea.IdeaApplication - App initialization took 87319 ms 
+2017-03-30 21:51:41,959 [  72540]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:LLDBCommands,Flow,ActionScript,PythonStub,Sass,ECMAScript 6,TypeScript JSX,Literate CoffeeScript,JavaScript,Less,XML,CoffeeScript,JSX Harmony,HTML,Python,GDBCommands,Stylus,SCSS,CSS,TypeScript 
+2017-03-30 21:51:43,327 [  73908]   INFO - pl$FileIndexDataInitialization - Initialization done:4806 
+2017-03-30 21:51:45,224 [  75805]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 868 ms 
+2017-03-30 21:51:45,252 [  75833]   INFO - exImpl$StubIndexInitialization - Initialization done:1918 
+2017-03-30 21:51:47,084 [  77665]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-03-30 21:51:47,116 [  77697]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-03-30 21:51:47,116 [  77697]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-03-30 21:51:47,116 [  77697]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2017-03-30 21:51:47,147 [  77728]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-03-30 21:51:47,147 [  77728]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-03-30 21:51:47,216 [  77797]  ERROR - oncurrency.BoundedTaskExecutor - cannot create class 'com.jetbrains.python.packaging.setupPy.CreateSetupPyAction' [Plugin: com.intellij.clion-python] 
+com.intellij.diagnostic.PluginException: cannot create class 'com.jetbrains.python.packaging.setupPy.CreateSetupPyAction' [Plugin: com.intellij.clion-python]
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.a(ActionManagerImpl.java:193)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.convertStub(ActionManagerImpl.java:164)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.a(ActionManagerImpl.java:485)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.getAction(ActionManagerImpl.java:473)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.preloadActions(ActionManagerImpl.java:1248)
+	at com.intellij.openapi.actionSystem.impl.ActionPreloader.preload(ActionPreloader.java:34)
+	at com.intellij.openapi.application.Preloader.a(Preloader.java:74)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.Preloader.a(Preloader.java:72)
+	at com.intellij.util.concurrency.BoundedTaskExecutor$2.run(BoundedTaskExecutor.java:212)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.intellij.util.ExceptionUtil.rethrow(ExceptionUtil.java:176)
+	at com.intellij.util.ReflectionUtil.newInstance(ReflectionUtil.java:427)
+	at com.intellij.openapi.actionSystem.impl.ActionManagerImpl.convertStub(ActionManagerImpl.java:152)
+	... 15 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.intellij.util.ReflectionUtil.newInstance(ReflectionUtil.java:419)
+	... 16 more
+Caused by: com.intellij.openapi.progress.ProcessCanceledException
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorBase.checkCanceled(AbstractProgressIndicatorBase.java:130)
+	at com.intellij.openapi.progress.util.AbstractProgressIndicatorExBase.checkCanceled(AbstractProgressIndicatorExBase.java:141)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.doCheckCanceled(CoreProgressManager.java:139)
+	at com.intellij.openapi.progress.ProgressManager.checkCanceled(ProgressManager.java:204)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.getPicoContainer(ComponentManagerImpl.java:258)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.getPicoContainer(ComponentManagerImpl.java:58)
+	at com.intellij.openapi.components.ServiceKt.getStateStore(service.kt:29)
+	at com.intellij.openapi.components.impl.PlatformComponentManagerImpl.initializeComponent(PlatformComponentManagerImpl.java:54)
+	at com.intellij.openapi.components.impl.ServiceManagerImpl$MyComponentAdapter.getComponentInstance(ServiceManagerImpl.java:233)
+	at com.intellij.util.pico.DefaultPicoContainer.getLocalInstance(DefaultPicoContainer.java:239)
+	at com.intellij.util.pico.DefaultPicoContainer.getComponentInstance(DefaultPicoContainer.java:206)
+	at org.picocontainer.defaults.BasicComponentParameter.resolveInstance(BasicComponentParameter.java:77)
+	at org.picocontainer.defaults.ComponentParameter.resolveInstance(ComponentParameter.java:114)
+	at com.intellij.util.pico.CachingConstructorInjectionComponentAdapter.getConstructorArguments(CachingConstructorInjectionComponentAdapter.java:128)
+	at com.intellij.util.pico.CachingConstructorInjectionComponentAdapter.doGetComponentInstance(CachingConstructorInjectionComponentAdapter.java:100)
+	at com.intellij.util.pico.CachingConstructorInjectionComponentAdapter.instantiateGuarded(CachingConstructorInjectionComponentAdapter.java:80)
+	at com.intellij.util.pico.CachingConstructorInjectionComponentAdapter.getComponentInstance(CachingConstructorInjectionComponentAdapter.java:63)
+	at com.intellij.openapi.components.impl.ServiceManagerImpl$MyComponentAdapter.getComponentInstance(ServiceManagerImpl.java:228)
+	at com.intellij.util.pico.DefaultPicoContainer.getLocalInstance(DefaultPicoContainer.java:239)
+	at com.intellij.util.pico.DefaultPicoContainer.getComponentInstance(DefaultPicoContainer.java:206)
+	at com.intellij.openapi.components.ServiceManager.doGetService(ServiceManager.java:48)
+	at com.intellij.openapi.components.ServiceManager.getService(ServiceManager.java:42)
+	at com.intellij.ide.fileTemplates.FileTemplateManager.getInstance(FileTemplateManager.java:55)
+	at com.intellij.ide.fileTemplates.FileTemplateManager.getDefaultInstance(FileTemplateManager.java:67)
+	at com.jetbrains.python.packaging.setupPy.CreateSetupPyAction.<init>(CreateSetupPyAction.java:55)
+	... 21 more
+2017-03-30 21:51:47,216 [  77797]  ERROR - oncurrency.BoundedTaskExecutor - CLion 2017.1  Build #CL-171.3780.121 
+2017-03-30 21:51:47,216 [  77797]  ERROR - oncurrency.BoundedTaskExecutor - JDK: 1.8.0_112-release 
+2017-03-30 21:51:47,216 [  77797]  ERROR - oncurrency.BoundedTaskExecutor - VM: OpenJDK 64-Bit Server VM 
+2017-03-30 21:51:47,216 [  77797]  ERROR - oncurrency.BoundedTaskExecutor - Vendor: JetBrains s.r.o 
+2017-03-30 21:51:47,216 [  77797]  ERROR - oncurrency.BoundedTaskExecutor - OS: Windows 10 
+2017-03-30 21:51:47,702 [  78283]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-03-30 21:51:47,702 [  78283]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-03-30 21:51:47,717 [  78298]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-03-30 21:51:47,717 [  78298]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-03-30 21:51:47,717 [  78298]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-03-31 01:41:30,776 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-03-31 01:41:31,123 [    347]   INFO -     #com.intellij.util.ui.JBUI - UI scale factor: 1.0 
+2017-03-31 01:41:31,210 [    434]   INFO -        #com.intellij.idea.Main - IDE: CLion (build #CL-171.3780.121, 27 Mar 2017 10:31) 
+2017-03-31 01:41:31,211 [    435]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-03-31 01:41:31,211 [    435]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b13 (JetBrains s.r.o) 
+2017-03-31 01:41:31,212 [    436]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b13 (OpenJDK 64-Bit Server VM) 
+2017-03-31 01:41:31,272 [    496]   INFO -        #com.intellij.idea.Main - JVM Args: -Xss2m -Xms256m -Xmx2000m -XX:NewSize=128m -XX:MaxNewSize=128m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\clion64.exe.vmoptions -Xbootclasspath/a:C:\Program Files (x86)\JetBrains\CLion 2017.1\lib\boot.jar -Didea.platform.prefix=CLion -Didea.paths.selector=CLion2017.1 -XX:ErrorFile=C:\Users\austi\java_error_in_clion_%p.log -XX:HeapDumpPath=C:\Users\austi\java_error_in_clion.hprof 
+2017-03-31 01:41:31,274 [    498]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files (x86)\JetBrains\CLion 2017.1\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-03-31 01:41:31,274 [    498]   INFO -        #com.intellij.idea.Main - JNU charset: Cp1252 
+2017-03-31 01:41:31,427 [    651]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 151 ms 
+2017-03-31 01:41:31,510 [    734]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-03-31 01:41:31,573 [    797]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-03-31 01:41:35,768 [   4992]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-js-support.xml 
+2017-03-31 01:41:35,783 [   5007]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2017-03-31 01:41:37,076 [   6300]   INFO - llij.ide.plugins.PluginManager - 26 plugins initialized in 2030 ms 
+2017-03-31 01:41:37,089 [   6313]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CSS Support (171.3780.121), CVS Integration (11), CoffeeScript (2.0), Git Integration (8.1), GitHub (171.3780.121), HTML Tools (2.0), IDEA CORE (171.3780.121), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (171.3780.121), Perforce Integration (2.0), PyCharm Community Edition for CLion (171.3780.121), REST Client (171.3780.121), Remote Hosts Access (0.1), Sass support (171.3780.121), Settings Repository (171.3780.121), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Task Management (1.0), Terminal (0.1), Time Tracking (1.0), XPathView + XSLT Support (4), YAML (171.3780.121), hg4idea (10.0) 
+2017-03-31 01:41:41,038 [  10262]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1967 
+2017-03-31 01:41:41,161 [  10385]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\fsnotifier64.exe 
+2017-03-31 01:41:41,425 [  10649]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-03-31 01:41:45,966 [  15190]   INFO - figurations.GeneralCommandLine - Cannot run program "C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\java": CreateProcess error=2, The system cannot find the file specified 
+java.io.IOException: Cannot run program "C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\java": CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at com.intellij.execution.configurations.GeneralCommandLine.startProcess(GeneralCommandLine.java:374)
+	at com.intellij.execution.configurations.GeneralCommandLine.createProcess(GeneralCommandLine.java:360)
+	at com.intellij.execution.process.OSProcessHandler.<init>(OSProcessHandler.java:45)
+	at com.intellij.execution.process.CapturingProcessHandler.<init>(CapturingProcessHandler.java:38)
+	at com.intellij.execution.util.ExecUtil.execAndGetOutput(ExecUtil.java:100)
+	at com.intellij.util.JdkBundle.a(JdkBundle.java:220)
+	at com.intellij.util.JdkBundle.createBundle(JdkBundle.java:92)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:125)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:113)
+	at com.intellij.ide.SystemHealthMonitor.a(SystemHealthMonitor.java:86)
+	at com.intellij.ide.SystemHealthMonitor.initComponent(SystemHealthMonitor.java:75)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.a(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.idea.MainImpl$1$1.a(MainImpl.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:386)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:137)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 44 more
+2017-03-31 01:41:46,265 [  15489]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-03-31 01:41:46,422 [  15646]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2017-03-31 01:41:47,782 [  17006]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:596 
+2017-03-31 01:41:47,815 [  17039]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:32 
+2017-03-31 01:41:48,290 [  17514]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:365 
+2017-03-31 01:41:48,320 [  17544]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:29 
+2017-03-31 01:41:49,008 [  18232]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-03-31 01:41:52,915 [  22139]   INFO - plication.impl.ApplicationImpl - 81 application components initialized in 17887ms 
+2017-03-31 01:41:52,979 [  22203]   INFO - .intellij.idea.IdeaApplication - App initialization took 28775 ms 
+2017-03-31 01:41:59,443 [  28667]   INFO - pl$FileIndexDataInitialization - Initialization done:11628 
+2017-03-31 01:42:02,520 [  31744]   INFO - exImpl$StubIndexInitialization - Initialization done:3076 
+2017-03-31 01:42:04,426 [  33650]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 1098 ms 
+2017-03-31 01:42:07,170 [  36394]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@5e0dd6ea 
+2017-03-31 01:42:08,661 [  37885]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@18306819 
+2017-03-31 01:42:10,310 [  39534]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@7f02397d 
+2017-03-31 01:42:19,972 [  49196]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-03-31 01:42:19,973 [  49197]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-03-31 01:42:19,975 [  49199]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-03-31 01:42:19,977 [  49201]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2017-03-31 01:42:19,986 [  49210]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-03-31 01:42:19,987 [  49211]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-03-31 01:42:20,456 [  49680]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-03-31 01:42:20,458 [  49682]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-03-31 01:42:20,475 [  49699]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-03-31 01:42:20,482 [  49706]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-03-31 01:42:20,485 [  49709]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-04-08 14:12:35,035 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-04-08 14:12:35,271 [    236]   INFO -     #com.intellij.util.ui.JBUI - UI scale factor: 1.0 
+2017-04-08 14:12:35,307 [    272]   INFO -        #com.intellij.idea.Main - IDE: CLion (build #CL-171.3780.121, 27 Mar 2017 10:35) 
+2017-04-08 14:12:35,307 [    272]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-04-08 14:12:35,307 [    272]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b13 (JetBrains s.r.o) 
+2017-04-08 14:12:35,307 [    272]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b13 (OpenJDK 64-Bit Server VM) 
+2017-04-08 14:12:35,354 [    319]   INFO -        #com.intellij.idea.Main - JVM Args: -Xss2m -Xms256m -Xmx2000m -XX:NewSize=128m -XX:MaxNewSize=128m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\clion64.exe.vmoptions -Xbootclasspath/a:C:\Program Files (x86)\JetBrains\CLion 2017.1\lib\boot.jar -Didea.platform.prefix=CLion -Didea.paths.selector=CLion2017.1 -XX:ErrorFile=C:\Users\austi\java_error_in_clion_%p.log -XX:HeapDumpPath=C:\Users\austi\java_error_in_clion.hprof 
+2017-04-08 14:12:35,354 [    319]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files (x86)\JetBrains\CLion 2017.1\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-04-08 14:12:35,354 [    319]   INFO -        #com.intellij.idea.Main - JNU charset: Cp1252 
+2017-04-08 14:12:35,476 [    441]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 122 ms 
+2017-04-08 14:12:35,523 [    488]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-04-08 14:12:35,554 [    519]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-04-08 14:12:40,338 [   5303]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2017-04-08 14:12:40,374 [   5339]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-js-support.xml 
+2017-04-08 14:12:41,896 [   6861]   INFO - llij.ide.plugins.PluginManager - 26 plugins initialized in 2375 ms 
+2017-04-08 14:12:41,896 [   6861]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CSS Support (171.3780.121), CVS Integration (11), CoffeeScript (2.0), Git Integration (8.1), GitHub (171.3780.121), HTML Tools (2.0), IDEA CORE (171.3780.121), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (171.3780.121), Perforce Integration (2.0), PyCharm Community Edition for CLion (171.3780.121), REST Client (171.3780.121), Remote Hosts Access (0.1), Sass support (171.3780.121), Settings Repository (171.3780.121), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Task Management (1.0), Terminal (0.1), Time Tracking (1.0), XPathView + XSLT Support (4), YAML (171.3780.121), hg4idea (10.0) 
+2017-04-08 14:12:45,473 [  10438]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1967 
+2017-04-08 14:12:45,606 [  10571]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\fsnotifier64.exe 
+2017-04-08 14:12:45,928 [  10893]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-04-08 14:12:50,464 [  15429]   INFO - figurations.GeneralCommandLine - Cannot run program "C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\java": CreateProcess error=2, The system cannot find the file specified 
+java.io.IOException: Cannot run program "C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\java": CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at com.intellij.execution.configurations.GeneralCommandLine.startProcess(GeneralCommandLine.java:374)
+	at com.intellij.execution.configurations.GeneralCommandLine.createProcess(GeneralCommandLine.java:360)
+	at com.intellij.execution.process.OSProcessHandler.<init>(OSProcessHandler.java:45)
+	at com.intellij.execution.process.CapturingProcessHandler.<init>(CapturingProcessHandler.java:38)
+	at com.intellij.execution.util.ExecUtil.execAndGetOutput(ExecUtil.java:100)
+	at com.intellij.util.JdkBundle.a(JdkBundle.java:220)
+	at com.intellij.util.JdkBundle.createBundle(JdkBundle.java:92)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:125)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:113)
+	at com.intellij.ide.SystemHealthMonitor.a(SystemHealthMonitor.java:86)
+	at com.intellij.ide.SystemHealthMonitor.initComponent(SystemHealthMonitor.java:75)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.a(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.idea.MainImpl$1$1.a(MainImpl.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:386)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:137)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 44 more
+2017-04-08 14:12:50,791 [  15756]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-04-08 14:12:50,908 [  15873]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2017-04-08 14:12:52,283 [  17248]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:697 
+2017-04-08 14:12:52,324 [  17289]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:40 
+2017-04-08 14:12:52,838 [  17803]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:396 
+2017-04-08 14:12:52,840 [  17805]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:1 
+2017-04-08 14:12:53,271 [  18236]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-04-08 14:12:57,563 [  22528]   INFO - plication.impl.ApplicationImpl - 81 application components initialized in 18073ms 
+2017-04-08 14:12:57,637 [  22602]   INFO - .intellij.idea.IdeaApplication - App initialization took 25466 ms 
+2017-04-08 14:13:06,149 [  31114]   INFO - pl$FileIndexDataInitialization - Initialization done:13825 
+2017-04-08 14:13:10,286 [  35251]   INFO - exImpl$StubIndexInitialization - Initialization done:4135 
+2017-04-08 14:13:13,367 [  38332]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 1737 ms 
+2017-04-08 14:13:17,313 [  42278]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@6592cf68 
+2017-04-08 14:13:18,799 [  43764]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@52f5efdf 
+2017-04-08 14:13:20,961 [  45926]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@44db361d 
+2017-04-08 14:20:21,725 [ 466690]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-04-08 14:20:21,725 [ 466690]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-04-08 14:20:21,741 [ 466706]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-04-08 14:20:21,741 [ 466706]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 0 auto-detected files
+Elapsed time on auto-detect: 0 ms 
+2017-04-08 14:20:21,763 [ 466728]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-04-08 14:20:21,763 [ 466728]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-04-08 14:20:22,265 [ 467230]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-04-08 14:20:22,265 [ 467230]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-04-08 14:20:22,265 [ 467230]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-04-08 14:20:22,281 [ 467246]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-04-08 14:20:22,281 [ 467246]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
