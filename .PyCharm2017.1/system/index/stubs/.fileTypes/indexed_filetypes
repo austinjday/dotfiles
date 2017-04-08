@@ -1,0 +1,24 @@
+Puppet￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1491681205693
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,25￿1491681205692
+PythonStub￿stub:com.jetbrains.python.pyi.PyiFileElementType,58￿1491681205691
+SQL￿stub:com.intellij.sql.psi.stubs.SqlFileElementType,5￿1491681205690
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205689
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,25￿1491681205688
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205687
+Jinja2￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1491681205686
+Python￿stub:com.jetbrains.python.psi.PyFileElementType,58￿1491681205685
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205684
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205683
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205682
+CSS￿stub:com.intellij.psi.css.CssFileElementType,25￿1491681205681
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,25￿1491681205680
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205679
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,25￿1491681205678
+Cython￿stub:com.jetbrains.cython.psi.elementTypes.CythonFileElementType,58￿1491681205677
+Ini￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1491681205676
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205675
+HTML￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1491681205674
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1491681205673
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205672
+Mako￿stub:com.jetbrains.mako.psi.impl.MakoFileElementType,58￿1491681205671
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-335315637￿1491681205670
