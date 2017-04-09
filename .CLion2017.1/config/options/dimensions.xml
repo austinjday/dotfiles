@@ -7,10 +7,12 @@
     <location key="SettingsEditor.0.0.1920.1080" x="472" y="189" />
     <location key="EditParametersPopupWindow.0.0.1920.1080" x="1115" y="406" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="765" y="192" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="983" y="254" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1920.1080" x="830" y="157" />
     <size key="ImportCMakeProjectWizard.0.0.1920.1080" width="640" height="480" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1207" height="269" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1207" height="269" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1207" height="269" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1207" height="269" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1431" height="301" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1431" height="301" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1431" height="301" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1431" height="301" />
   </component>
 </application>

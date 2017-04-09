@@ -2,7 +2,11 @@
   <component name="UsageTrigger">
     <counts>
       <entry feature="StripeButton[Version_Control].shown" count="2" />
-      <entry feature="execute.CMakeRunConfiguration.Run" count="3" />
+      <entry feature="cidr.completion.qualified" count="1" />
+      <entry feature="cidr.newFile" count="1" />
+      <entry feature="cidr.newFile.addedToProject" count="1" />
+      <entry feature="cidr.newFile.cppClass" count="1" />
+      <entry feature="execute.CMakeRunConfiguration.Run" count="20" />
       <entry feature="ideaapp.started" count="5" />
       <entry feature="welcome.screen.ImportCMakeProject" count="4" />
       <entry feature="welcome.screen.null" count="1" />
