@@ -192,3 +192,878 @@ Caused by: java.io.IOException: CreateProcess error=2, The system cannot find th
 2017-04-08 15:54:31,341 [   8466]   INFO - pl$FileIndexDataInitialization - Initialization done:2720 
 2017-04-08 15:54:32,360 [   9485]   INFO - exImpl$StubIndexInitialization - Initialization done:1018 
 2017-04-08 15:54:33,037 [  10162]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@c62d996 
+2017-04-11 02:45:17,448 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-04-11 02:45:17,510 [     62]   INFO -     #com.intellij.util.ui.JBUI - UI scale factor: 1.0 
+2017-04-11 02:45:17,510 [     62]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PY-171.3780.115, 24 Mar 2017 06:17) 
+2017-04-11 02:45:17,510 [     62]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-04-11 02:45:17,510 [     62]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b13 (JetBrains s.r.o) 
+2017-04-11 02:45:17,510 [     62]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b13 (OpenJDK 64-Bit Server VM) 
+2017-04-11 02:45:17,557 [    109]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=C:\Program Files (x86)\JetBrains\PyCharm 2017.1\bin\pycharm64.exe.vmoptions -Xbootclasspath/a:C:\Program Files (x86)\JetBrains\PyCharm 2017.1\lib\boot.jar -Didea.platform.prefix=Python -Didea.paths.selector=PyCharm2017.1 -XX:ErrorFile=C:\Users\austi\java_error_in_pycharm_%p.log -XX:HeapDumpPath=C:\Users\austi\java_error_in_pycharm.hprof 
+2017-04-11 02:45:17,557 [    109]   INFO -        #com.intellij.idea.Main - ext: C:\Program Files (x86)\JetBrains\PyCharm 2017.1\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-04-11 02:45:17,557 [    109]   INFO -        #com.intellij.idea.Main - JNU charset: Cp1252 
+2017-04-11 02:45:17,604 [    156]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 47 ms 
+2017-04-11 02:45:17,651 [    203]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-04-11 02:45:17,745 [    297]   INFO -        #com.intellij.idea.Main - Using "FocusKiller" library to prevent focus stealing. 
+2017-04-11 02:45:21,316 [   3868]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2017-04-11 02:45:22,003 [   4555]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2017-04-11 02:45:22,003 [   4555]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2017-04-11 02:45:22,738 [   5290]   INFO - llij.ide.plugins.PluginManager - 52 plugins initialized in 2790 ms 
+2017-04-11 02:45:22,769 [   5321]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: AngularJS (171.3780.115), CSS Support (171.3780.115), CVS Integration (11), CoffeeScript (2.0), Concurrency Visualiser (0.1), Database Tools and SQL (1.0), Django Database Support Integration (1.0), Docker integration (2.5.3), EditorConfig (171.3780.115), File Watchers (171.3780.115), GNU GetText files support (*.po) (171.3780.115), Gherkin (999.999), Git Integration (8.1), GitHub (171.3780.115), HTML Tools (2.0), Haml (171.3780.115), IDEA CORE (171.3780.115), IPython Notebook (0.1), Ini4Idea (171.3780.115), IntelliLang (8.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (171.3780.115), Perforce Integration (2.0), Puppet Support (VERSION), Python BDD support for engines, based on Gherkin (cucumber, lettuce, behave) (0.1), Python Docker (VERSION), Python IntelliLang (VERSION), Python JavaScript Debugger Integration (VERSION), Python Localization Integration (VERSION), Python Profiler (0.1), Python ReStructureText Integration (1.0), Python Remote Interpreter (VERSION), Python Terminal (VERSION), Python UML Diagrams (VERSION), REST Client (171.3780.115), ReStructuredText Support (171.3780.115), Remote Hosts Access (0.1), SSH Remote Run (0.1), Sass support (171.3780.115), Settings Repository (171.3780.115), Stylus support (999.999), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TextMate bundles support (VERSION), UML Support (1.0), Vagrant (171.3780.115), hg4idea (10.0), tslint (171.3780.115) 
+2017-04-11 02:45:22,769 [   5321]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: YAML (171.3780.115) 
+2017-04-11 02:45:26,675 [   9227]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2017-04-11 02:45:26,894 [   9446]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files (x86)\JetBrains\PyCharm 2017.1\bin\fsnotifier64.exe 
+2017-04-11 02:45:27,113 [   9665]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-04-11 02:45:27,357 [   9909]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2017-04-11 02:45:27,357 [   9909]   INFO - pi.util.registry.RegistryState -   ide.ssh.one.time.password = true 
+2017-04-11 02:45:33,594 [  16146]   INFO - figurations.GeneralCommandLine - Cannot run program "C:\Program Files (x86)\JetBrains\PyCharm 2017.1\bin\java": CreateProcess error=2, The system cannot find the file specified 
+java.io.IOException: Cannot run program "C:\Program Files (x86)\JetBrains\PyCharm 2017.1\bin\java": CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at com.intellij.execution.configurations.GeneralCommandLine.startProcess(GeneralCommandLine.java:374)
+	at com.intellij.execution.configurations.GeneralCommandLine.createProcess(GeneralCommandLine.java:360)
+	at com.intellij.execution.process.OSProcessHandler.<init>(OSProcessHandler.java:45)
+	at com.intellij.execution.process.CapturingProcessHandler.<init>(CapturingProcessHandler.java:38)
+	at com.intellij.execution.util.ExecUtil.execAndGetOutput(ExecUtil.java:100)
+	at com.intellij.util.JdkBundle.a(JdkBundle.java:220)
+	at com.intellij.util.JdkBundle.createBundle(JdkBundle.java:92)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:125)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:113)
+	at com.intellij.ide.SystemHealthMonitor.a(SystemHealthMonitor.java:86)
+	at com.intellij.ide.SystemHealthMonitor.initComponent(SystemHealthMonitor.java:75)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.a(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:199)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.idea.MainImpl$1$1.a(MainImpl.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.IOException: CreateProcess error=2, The system cannot find the file specified
+	at java.lang.ProcessImpl.create(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:386)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:137)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 44 more
+2017-04-11 02:45:34,391 [  16943]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-04-11 02:45:34,532 [  17084]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2017-04-11 02:45:36,618 [  19170]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:1013 
+2017-04-11 02:45:36,675 [  19227]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:45 
+2017-04-11 02:45:37,667 [  20219]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:864 
+2017-04-11 02:45:37,683 [  20235]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:17 
+2017-04-11 02:45:38,690 [  21242]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-04-11 02:45:42,534 [  25086]   INFO - plication.impl.ApplicationImpl - 80 application components initialized in 22602ms 
+2017-04-11 02:45:42,551 [  25103]   INFO - .intellij.idea.IdeaApplication - App initialization took 27657 ms 
+2017-04-11 02:45:47,312 [  29864]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:Cython,Mako,Jinja2,Ini,JavaScript,TypeScript JSX,SQL,JSX Harmony,Flow,CSS,CoffeeScript,Puppet,XML,ActionScript,Literate CoffeeScript,SCSS,Less,Python,HTML,Stylus,ECMAScript 6,PythonStub,Sass,TypeScript 
+2017-04-11 02:45:53,847 [  36399]   INFO - pl$FileIndexDataInitialization - Initialization done:17181 
+2017-04-11 02:45:57,404 [  39956]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 2244 ms 
+2017-04-11 02:46:02,297 [  44849]   INFO - exImpl$StubIndexInitialization - Initialization done:8444 
+2017-04-11 02:46:05,899 [  48451]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@51afbddc 
+2017-04-11 02:46:07,667 [  50219]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@7aa4a1e9 
+2017-04-11 02:46:09,984 [  52536]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@1ea33309 
+2017-04-11 02:46:35,260 [  77812]   INFO - ellij.project.impl.ProjectImpl - 108 project components initialized in 2250 ms 
+2017-04-11 02:46:35,260 [  77812]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2017-04-11 02:46:35,836 [  78388]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 141 ms 
+2017-04-11 02:46:35,867 [  78419]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry C:\Users\austi\Anaconda3\python36.zip 
+2017-04-11 02:46:35,882 [  78434]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6.0 (C:\Users\austi\Anaconda3\python.exe) (C:\Users\austi\Anaconda3\python.exe)): C:/Users/austi/.PyCharm2017.1/system/python_stubs/1294973473 
+2017-04-11 02:46:35,898 [  78450]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6.0 (C:\Users\austi\Anaconda3\python.exe) (C:\Users\austi\Anaconda3\python.exe)): C:/Program Files (x86)/JetBrains/PyCharm 2017.1/helpers/python-skeletons 
+2017-04-11 02:46:36,148 [  78700]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy 
+2017-04-11 02:46:36,148 [  78700]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy in original object too 
+2017-04-11 02:46:37,508 [  80060]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2017-04-11 02:47:02,066 [ 104618]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2017-04-11 02:47:02,066 [ 104618]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2017-04-11 02:47:02,066 [ 104618]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2017-04-11 02:47:02,234 [ 104786]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 304ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-04-11 02:47:02,669 [ 105221]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6.0 (C:\Users\austi\Anaconda3\python.exe) (C:\Users\austi\Anaconda3\python.exe) 
+2017-04-11 02:47:02,678 [ 105230]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for C:\Users\austi\Anaconda3\python.exe 
+2017-04-11 02:47:05,216 [ 107768]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: C:\Users\austi\Anaconda3\python.exe C:\Program Files (x86)\JetBrains\PyCharm 2017.1\helpers\packaging_tool.py list 
+2017-04-11 02:47:06,930 [ 109482]   INFO - gratedToolsProjectConfigurator - Test runner 'Nosetests' was detected by project configurator 
+2017-04-11 02:47:07,258 [ 109810]   INFO - tartup.impl.StartupManagerImpl - C:/Users/austi/eecs/445/hw4/.idea case-sensitivity: expected=false actual=false 
+2017-04-11 02:47:08,478 [ 111030]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 35510 ms 
+2017-04-11 02:47:10,558 [ 113110]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 7644 ms 
+2017-04-11 02:47:10,605 [ 113157]   INFO - .skeletons.PySkeletonRefresher - Home path is C:\Program Files (x86)\JetBrains\PyCharm 2017.1 
+2017-04-11 02:47:10,605 [ 113157]   INFO - .skeletons.PySkeletonRefresher - Pregenerated skeletons root is C:\Program Files (x86)\JetBrains\PyCharm 2017.1\skeletons 
+2017-04-11 02:47:10,605 [ 113157]   INFO - .skeletons.PySkeletonRefresher - Not found pregenerated skeletons at C:\Program Files (x86)\JetBrains\PyCharm 2017.1\skeletons\skeletons-win-401-python-3.6.0.zip 
+2017-04-11 02:47:13,508 [ 116060]   INFO - .skeletons.PySkeletonGenerator - Rebuilding builtin skeletons took 2903 ms 
+2017-04-11 02:47:13,508 [ 116060]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._AES 
+2017-04-11 02:47:14,430 [ 116982]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._ARC2 
+2017-04-11 02:47:14,993 [ 117545]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._ARC4 
+2017-04-11 02:47:15,399 [ 117951]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._Blowfish 
+2017-04-11 02:47:16,055 [ 118607]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._CAST 
+2017-04-11 02:47:16,806 [ 119358]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._DES 
+2017-04-11 02:47:17,242 [ 119794]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._DES3 
+2017-04-11 02:47:17,613 [ 120165]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Cipher._XOR 
+2017-04-11 02:47:18,033 [ 120585]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._MD2 
+2017-04-11 02:47:18,810 [ 121362]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._MD4 
+2017-04-11 02:47:19,256 [ 121808]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._RIPEMD160 
+2017-04-11 02:47:19,912 [ 122464]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._SHA224 
+2017-04-11 02:47:20,379 [ 122931]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._SHA256 
+2017-04-11 02:47:20,773 [ 123325]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._SHA384 
+2017-04-11 02:47:21,143 [ 123695]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Hash._SHA512 
+2017-04-11 02:47:21,492 [ 124044]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Random.OSRNG.winrandom 
+2017-04-11 02:47:23,346 [ 125898]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Util._counter 
+2017-04-11 02:47:23,664 [ 126216]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Crypto.Util.strxor 
+2017-04-11 02:47:24,194 [ 126746]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Compiler.Code 
+2017-04-11 02:47:28,196 [ 130748]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Compiler.FlowControl 
+2017-04-11 02:47:37,199 [ 139751]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Compiler.Lexicon 
+2017-04-11 02:47:37,527 [ 140079]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Compiler.Parsing 
+2017-04-11 02:47:38,824 [ 141376]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Compiler.Scanning 
+2017-04-11 02:47:39,230 [ 141782]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Compiler.Visitor 
+2017-04-11 02:47:40,339 [ 142891]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Plex.Actions 
+2017-04-11 02:47:40,683 [ 143235]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Plex.Scanners 
+2017-04-11 02:47:41,027 [ 143579]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Runtime.refnanny 
+2017-04-11 02:47:41,683 [ 144235]   INFO - .skeletons.PySkeletonRefresher - Skeleton for Cython.Tempita._tempita 
+2017-04-11 02:47:42,635 [ 145187]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imaging 
+2017-04-11 02:47:43,636 [ 146188]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imagingft 
+2017-04-11 02:47:44,130 [ 146682]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imagingmath 
+2017-04-11 02:47:44,577 [ 147129]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imagingmorph 
+2017-04-11 02:47:45,103 [ 147655]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PIL._imagingtk 
+2017-04-11 02:47:47,771 [ 150323]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.Enginio 
+2017-04-11 02:47:53,302 [ 155854]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: C:\Users\austi\Anaconda3\python.exe C:\Program Files (x86)\JetBrains\PyCharm 2017.1\helpers\packaging_tool.py list 
+2017-04-11 02:47:56,283 [ 158835]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QAxContainer 
+2017-04-11 02:48:02,815 [ 165367]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.Qt 
+2017-04-11 02:48:22,062 [ 184614]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtBluetooth 
+2017-04-11 02:48:23,078 [ 185630]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtCore 
+2017-04-11 02:48:35,045 [ 197597]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtDBus 
+2017-04-11 02:48:35,910 [ 198462]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtDesigner 
+2017-04-11 02:48:36,923 [ 199475]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtGui 
+2017-04-11 02:48:51,249 [ 213801]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 109015ms; general responsiveness: ok; EDT responsiveness: 0/108 sluggish, 21/108 very slow 
+2017-04-11 02:48:51,265 [ 213817]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 30036 files to update 
+2017-04-11 02:49:01,609 [ 224161]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtHelp 
+2017-04-11 02:49:09,715 [ 232267]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtLocation 
+2017-04-11 02:49:11,175 [ 233727]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: C:\Users\austi\Anaconda3\python.exe C:\Program Files (x86)\JetBrains\PyCharm 2017.1\helpers\packaging_tool.py list 
+2017-04-11 02:49:12,286 [ 234838]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.grunt.GruntService 
+2017-04-11 02:49:12,333 [ 234885]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.gulp.GulpService 
+2017-04-11 02:49:12,349 [ 234901]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.npm.NpmScriptsService 
+2017-04-11 02:49:18,876 [ 241428]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtMultimedia 
+2017-04-11 02:49:24,539 [ 247091]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtMultimediaWidgets 
+2017-04-11 02:49:25,480 [ 248032]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtNetwork 
+2017-04-11 02:49:30,708 [ 253260]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtOpenGL 
+2017-04-11 02:49:32,025 [ 254577]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtPositioning 
+2017-04-11 02:49:33,543 [ 256095]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtPrintSupport 
+2017-04-11 02:49:35,034 [ 257586]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtQml 
+2017-04-11 02:49:36,786 [ 259338]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtQuick 
+2017-04-11 02:49:39,674 [ 262226]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtQuickWidgets 
+2017-04-11 02:49:40,567 [ 263119]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtSensors 
+2017-04-11 02:49:42,270 [ 264822]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtSerialPort 
+2017-04-11 02:49:43,192 [ 265744]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtSql 
+2017-04-11 02:49:45,671 [ 268223]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtSvg 
+2017-04-11 02:49:46,608 [ 269160]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtTest 
+2017-04-11 02:49:47,691 [ 270243]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtWebChannel 
+2017-04-11 02:49:48,432 [ 270984]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtWebKit 
+2017-04-11 02:49:49,780 [ 272332]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtWebKitWidgets 
+2017-04-11 02:49:51,935 [ 274487]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtWebSockets 
+2017-04-11 02:49:52,888 [ 275440]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtWidgets 
+2017-04-11 02:50:29,460 [ 312012]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtWinExtras 
+2017-04-11 02:50:30,976 [ 313528]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtXml 
+2017-04-11 02:50:33,023 [ 315575]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5.QtXmlPatterns 
+2017-04-11 02:50:34,320 [ 316872]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5._QOpenGLFunctions_2_0 
+2017-04-11 02:50:37,847 [ 320399]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5._QOpenGLFunctions_2_1 
+2017-04-11 02:50:41,300 [ 323852]   INFO - .skeletons.PySkeletonRefresher - Skeleton for PyQt5._QOpenGLFunctions_4_1_Core 
+2017-04-11 02:50:43,284 [ 325836]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _asyncio 
+2017-04-11 02:50:45,190 [ 327742]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _bz2 
+2017-04-11 02:50:45,690 [ 328242]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _cffi_backend 
+2017-04-11 02:50:46,175 [ 328727]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ctypes 
+2017-04-11 02:50:46,784 [ 329336]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ctypes_test 
+2017-04-11 02:50:47,285 [ 329837]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _decimal 
+2017-04-11 02:50:47,973 [ 330525]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _elementtree 
+2017-04-11 02:50:48,535 [ 331087]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _hashlib 
+2017-04-11 02:50:49,004 [ 331556]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _license 
+2017-04-11 02:50:49,941 [ 332493]   INFO - .skeletons.PySkeletonGenerator - Skeleton for _license had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function glob: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:50:49,941 [ 332493]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _lzma 
+2017-04-11 02:50:50,457 [ 333009]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _msi 
+2017-04-11 02:50:50,879 [ 333431]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _multiprocessing 
+2017-04-11 02:50:51,379 [ 333931]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _overlapped 
+2017-04-11 02:50:51,925 [ 334477]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _socket 
+2017-04-11 02:50:52,597 [ 335149]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _sqlite3 
+2017-04-11 02:50:54,909 [ 337461]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _ssl 
+2017-04-11 02:50:55,456 [ 338008]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testbuffer 
+2017-04-11 02:50:55,941 [ 338493]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testcapi 
+2017-04-11 02:50:56,534 [ 339086]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testconsole 
+2017-04-11 02:50:57,159 [ 339711]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testimportmultiple 
+2017-04-11 02:50:57,800 [ 340352]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _testmultiphase 
+2017-04-11 02:50:58,503 [ 341055]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _tkinter 
+2017-04-11 02:50:59,155 [ 341707]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _win32sysloader 
+2017-04-11 02:51:00,417 [ 342969]   INFO - .skeletons.PySkeletonRefresher - Skeleton for _winxptheme 
+2017-04-11 02:51:00,981 [ 343533]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy._compiler 
+2017-04-11 02:51:17,930 [ 360482]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy._erfa._core 
+2017-04-11 02:51:21,733 [ 364285]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.convolution.boundary_extend 
+2017-04-11 02:51:31,195 [ 373747]   INFO - python.packaging.PyPackageUtil - Refreshing installed packages for SDK C:\Users\austi\Anaconda3\python.exe 
+2017-04-11 02:51:53,973 [ 396525]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: C:\Users\austi\Anaconda3\python.exe C:\Program Files (x86)\JetBrains\PyCharm 2017.1\helpers\packaging_tool.py list 
+2017-04-11 02:52:12,479 [ 415031]   INFO - .skeletons.PySkeletonGenerator - Skeleton for astropy.convolution.boundary_extend had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function close: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function closed: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function fileno: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function flush: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function isatty: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function read: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readline: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readlines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seek: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seekable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function tell: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function truncate: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writelines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __exit__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:52:12,479 [ 415031]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.convolution.boundary_fill 
+2017-04-11 02:52:15,635 [ 418187]   INFO - ellij.vfs.persistent.FSRecords - Contents:16384 of 221367202, reuses:567 of 1042564 for 1991 
+2017-04-11 02:52:21,922 [ 424474]   INFO - .skeletons.PySkeletonGenerator - Skeleton for astropy.convolution.boundary_fill had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function close: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function closed: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function fileno: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function flush: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function isatty: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function read: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readline: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readlines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seek: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seekable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function tell: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function truncate: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writelines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __exit__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:52:21,922 [ 424474]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.convolution.boundary_none 
+2017-04-11 02:52:31,867 [ 434419]   INFO - .skeletons.PySkeletonGenerator - Skeleton for astropy.convolution.boundary_none had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function close: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function closed: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function fileno: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function flush: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function isatty: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function read: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readline: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readlines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seek: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seekable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function tell: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function truncate: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writelines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __exit__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:52:31,867 [ 434419]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.convolution.boundary_wrap 
+2017-04-11 02:52:41,286 [ 443838]   INFO - .skeletons.PySkeletonGenerator - Skeleton for astropy.convolution.boundary_wrap had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function close: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function closed: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function fileno: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function flush: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function isatty: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function read: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readline: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readlines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seek: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seekable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function tell: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function truncate: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writelines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __exit__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:52:41,286 [ 443838]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.cosmology.scalar_inv_efuncs 
+2017-04-11 02:52:45,414 [ 447966]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.io.ascii.cparser 
+2017-04-11 02:52:53,377 [ 455929]   INFO - .skeletons.PySkeletonGenerator - Skeleton for astropy.io.ascii.cparser had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function close: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function closed: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function fileno: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function flush: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function isatty: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function read: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readline: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readlines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seek: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seekable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function tell: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function truncate: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writelines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __exit__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:52:53,379 [ 455931]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.io.fits.compression 
+2017-04-11 02:52:58,228 [ 460780]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.io.votable.tablewriter 
+2017-04-11 02:53:02,306 [ 464858]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.modeling._projections 
+2017-04-11 02:53:09,257 [ 471809]   INFO - .skeletons.PySkeletonGenerator - Skeleton for astropy.modeling._projections had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function close: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function closed: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function fileno: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function flush: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function isatty: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function read: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readline: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readlines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seek: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seekable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function tell: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function truncate: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writelines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __exit__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:53:09,257 [ 471809]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.stats.lombscargle.implementations.cython_impl 
+2017-04-11 02:53:13,038 [ 475590]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.table._column_mixins 
+2017-04-11 02:53:19,633 [ 482185]   INFO - .skeletons.PySkeletonGenerator - Skeleton for astropy.table._column_mixins had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function close: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function closed: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function fileno: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function flush: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function isatty: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function read: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readline: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readlines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seek: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seekable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function tell: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function truncate: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writelines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __exit__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:53:19,633 [ 482185]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.table._np_utils 
+2017-04-11 02:53:20,711 [ 483263]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 269446ms; general responsiveness: 9/264 sluggish, 2/264 very slow; EDT responsiveness: 2/263 sluggish, 18/263 very slow 
+2017-04-11 02:53:24,815 [ 487367]   INFO - .skeletons.PySkeletonGenerator - Skeleton for astropy.table._np_utils had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function close: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function closed: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function fileno: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function flush: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function isatty: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function read: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readline: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function readlines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seek: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function seekable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function tell: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function truncate: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writable: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function writelines: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __exit__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function write: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+Error generating skeleton for function __enter__: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:53:24,815 [ 487367]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.utils._compiler 
+2017-04-11 02:53:26,905 [ 489457]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.utils.xml._iterparser 
+2017-04-11 02:53:28,127 [ 490679]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 156 ms 
+2017-04-11 02:53:28,127 [ 490679]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry C:\Users\austi\Anaconda3\python36.zip 
+2017-04-11 02:53:28,143 [ 490695]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6.0 (C:\Users\austi\Anaconda3\python.exe) (C:\Users\austi\Anaconda3\python.exe)): C:/Users/austi/.PyCharm2017.1/system/python_stubs/1294973473 
+2017-04-11 02:53:28,143 [ 490695]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6.0 (C:\Users\austi\Anaconda3\python.exe) (C:\Users\austi\Anaconda3\python.exe)): C:/Program Files (x86)/JetBrains/PyCharm 2017.1/helpers/python-skeletons 
+2017-04-11 02:53:28,799 [ 491351]   INFO - .skeletons.PySkeletonRefresher - Skeleton for astropy.wcs._wcs 
+2017-04-11 02:53:31,972 [ 494524]   INFO - .skeletons.PySkeletonRefresher - Skeleton for bitarray._bitarray 
+2017-04-11 02:53:32,875 [ 495427]   INFO - .skeletons.PySkeletonRefresher - Skeleton for bottleneck.move 
+2017-04-11 02:53:36,980 [ 499532]   INFO - .skeletons.PySkeletonRefresher - Skeleton for bottleneck.nonreduce 
+2017-04-11 02:53:37,996 [ 500548]   INFO - .skeletons.PySkeletonRefresher - Skeleton for bottleneck.nonreduce_axis 
+2017-04-11 02:53:40,201 [ 502753]   INFO - .skeletons.PySkeletonRefresher - Skeleton for bottleneck.reduce 
+2017-04-11 02:53:41,216 [ 503768]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._constant_time 
+2017-04-11 02:53:41,560 [ 504112]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._openssl 
+2017-04-11 02:53:41,841 [ 504393]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cryptography.hazmat.bindings._padding 
+2017-04-11 02:53:42,576 [ 505128]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cytoolz.dicttoolz 
+2017-04-11 02:53:43,232 [ 505784]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cytoolz.functoolz 
+2017-04-11 02:53:43,795 [ 506347]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cytoolz.itertoolz 
+2017-04-11 02:53:44,527 [ 507079]   INFO - .skeletons.PySkeletonGenerator - Skeleton for cytoolz.itertoolz had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function choices: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 02:53:44,527 [ 507079]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cytoolz.recipes 
+2017-04-11 02:53:45,059 [ 507611]   INFO - .skeletons.PySkeletonRefresher - Skeleton for cytoolz.utils 
+2017-04-11 02:53:45,543 [ 508095]   INFO - .skeletons.PySkeletonRefresher - Skeleton for dde 
+2017-04-11 02:53:46,340 [ 508892]   INFO - .skeletons.PySkeletonGenerator - Skeleton for dde failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'dde' while nothing yet: This must be an MFC application - try 'import win32ui' first
+-- 
+2017-04-11 02:53:46,340 [ 508892]   INFO - .skeletons.PySkeletonRefresher - Skeleton for fastcache._lrucache 
+2017-04-11 02:53:46,668 [ 509220]   INFO - .skeletons.PySkeletonRefresher - Skeleton for gevent._semaphore 
+2017-04-11 02:53:47,340 [ 509892]   INFO - .skeletons.PySkeletonRefresher - Skeleton for gevent.libev.corecext 
+2017-04-11 02:53:47,824 [ 510376]   INFO - .skeletons.PySkeletonRefresher - Skeleton for greenlet 
+2017-04-11 02:53:48,137 [ 510689]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py._conv 
+2017-04-11 02:53:50,309 [ 512861]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py._errors 
+2017-04-11 02:53:51,512 [ 514064]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py._objects 
+2017-04-11 02:53:52,679 [ 515231]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py._proxy 
+2017-04-11 02:53:54,099 [ 516651]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.defs 
+2017-04-11 02:53:55,296 [ 517848]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5 
+2017-04-11 02:53:56,436 [ 518988]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5a 
+2017-04-11 02:53:57,577 [ 520129]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5ac 
+2017-04-11 02:53:58,733 [ 521285]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5d 
+2017-04-11 02:53:59,889 [ 522441]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5ds 
+2017-04-11 02:54:01,030 [ 523582]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5f 
+2017-04-11 02:54:02,186 [ 524738]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5fd 
+2017-04-11 02:54:03,327 [ 525879]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5g 
+2017-04-11 02:54:04,476 [ 527028]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5i 
+2017-04-11 02:54:05,617 [ 528169]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5l 
+2017-04-11 02:54:06,789 [ 529341]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5o 
+2017-04-11 02:54:07,925 [ 530477]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5p 
+2017-04-11 02:54:09,097 [ 531649]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5r 
+2017-04-11 02:54:10,232 [ 532784]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5s 
+2017-04-11 02:54:11,388 [ 533940]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5t 
+2017-04-11 02:54:12,591 [ 535143]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.h5z 
+2017-04-11 02:54:13,747 [ 536299]   INFO - .skeletons.PySkeletonRefresher - Skeleton for h5py.utils 
+2017-04-11 02:54:14,935 [ 537487]   INFO - .skeletons.PySkeletonRefresher - Skeleton for lazy_object_proxy.cext 
+2017-04-11 02:54:15,263 [ 537815]   INFO - .skeletons.PySkeletonRefresher - Skeleton for lxml.etree 
+2017-04-11 02:54:16,716 [ 539268]   INFO - .skeletons.PySkeletonRefresher - Skeleton for lxml.objectify 
+2017-04-11 02:54:17,264 [ 539816]   INFO - .skeletons.PySkeletonRefresher - Skeleton for markupsafe._speedups 
+2017-04-11 02:54:17,608 [ 540160]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._cntr 
+2017-04-11 02:54:19,092 [ 541644]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._contour 
+2017-04-11 02:54:20,264 [ 542816]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._delaunay 
+2017-04-11 02:54:21,467 [ 544019]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._image 
+2017-04-11 02:54:22,698 [ 545250]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._path 
+2017-04-11 02:54:23,933 [ 546485]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._png 
+2017-04-11 02:54:25,136 [ 547688]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._qhull 
+2017-04-11 02:54:26,401 [ 548953]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._tri 
+2017-04-11 02:54:27,683 [ 550235]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib._windowing 
+2017-04-11 02:54:28,839 [ 551391]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib.backends._backend_agg 
+2017-04-11 02:54:30,105 [ 552657]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib.backends._tkagg 
+2017-04-11 02:54:31,027 [ 553579]   INFO - .skeletons.PySkeletonGenerator - Skeleton for matplotlib.backends._tkagg failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'matplotlib.backends._tkagg' while nothing yet: Could not find TCL routines
+-- 
+2017-04-11 02:54:31,027 [ 553579]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib.ft2font 
+2017-04-11 02:54:32,433 [ 554985]   INFO - .skeletons.PySkeletonRefresher - Skeleton for matplotlib.ttconv 
+2017-04-11 02:54:33,636 [ 556188]   INFO - .skeletons.PySkeletonRefresher - Skeleton for menuinst.winshortcut 
+2017-04-11 02:54:34,011 [ 556563]   INFO - .skeletons.PySkeletonRefresher - Skeleton for mistune 
+2017-04-11 02:54:34,397 [ 556949]   INFO - .skeletons.PySkeletonRefresher - Skeleton for mkl.service 
+2017-04-11 02:54:34,975 [ 557527]   INFO - .skeletons.PySkeletonRefresher - Skeleton for mmapfile 
+2017-04-11 02:54:35,303 [ 557855]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba._dispatcher 
+2017-04-11 02:54:37,955 [ 560507]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba._dynfunc 
+2017-04-11 02:54:39,502 [ 562054]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba._helperlib 
+2017-04-11 02:54:41,106 [ 563658]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba.jitclass._box 
+2017-04-11 02:54:42,637 [ 565189]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba.mviewbuf 
+2017-04-11 02:54:44,200 [ 566752]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba.npyufunc._internal 
+2017-04-11 02:54:45,747 [ 568299]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba.npyufunc.workqueue 
+2017-04-11 02:54:47,309 [ 569861]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba.runtime._nrt_python 
+2017-04-11 02:54:48,856 [ 571408]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numba.typeconv._typeconv 
+2017-04-11 02:54:50,372 [ 572924]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numexpr.interpreter 
+2017-04-11 02:54:51,434 [ 573986]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.core._dummy 
+2017-04-11 02:54:52,398 [ 574950]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.core.multiarray 
+2017-04-11 02:54:53,820 [ 576372]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.core.multiarray_tests 
+2017-04-11 02:54:54,726 [ 577278]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.core.operand_flag_tests 
+2017-04-11 02:54:55,742 [ 578294]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.core.struct_ufunc_test 
+2017-04-11 02:54:56,680 [ 579232]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.core.test_rational 
+2017-04-11 02:54:57,758 [ 580310]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.core.umath 
+2017-04-11 02:54:58,945 [ 581497]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.core.umath_tests 
+2017-04-11 02:54:59,883 [ 582435]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.fft.fftpack_lite 
+2017-04-11 02:55:00,820 [ 583372]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.linalg._umath_linalg 
+2017-04-11 02:55:01,805 [ 584357]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.linalg.lapack_lite 
+2017-04-11 02:55:02,711 [ 585263]   INFO - .skeletons.PySkeletonRefresher - Skeleton for numpy.random.mtrand 
+2017-04-11 02:55:03,961 [ 586513]   INFO - .skeletons.PySkeletonRefresher - Skeleton for odbc 
+2017-04-11 02:55:04,320 [ 586872]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas._hash 
+2017-04-11 02:55:09,703 [ 592255]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas._hash failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas._hash' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:09,703 [ 592255]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas._join 
+2017-04-11 02:55:12,350 [ 594902]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas._join failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas._join' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:12,350 [ 594902]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas._period 
+2017-04-11 02:55:14,975 [ 597527]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas._period failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas._period' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:14,975 [ 597527]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas._sparse 
+2017-04-11 02:55:17,607 [ 600159]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas._sparse failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas._sparse' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:17,607 [ 600159]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas._testing 
+2017-04-11 02:55:20,217 [ 602769]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas._testing failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas._testing' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:20,217 [ 602769]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas._window 
+2017-04-11 02:55:22,885 [ 605437]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas._window failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas._window' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:22,885 [ 605437]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.algos 
+2017-04-11 02:55:25,635 [ 608187]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.algos failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.algos' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:25,635 [ 608187]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.hashtable 
+2017-04-11 02:55:28,276 [ 610828]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.hashtable failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.hashtable' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:28,276 [ 610828]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.index 
+2017-04-11 02:55:30,918 [ 613470]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.index failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.index' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:30,918 [ 613470]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.io.sas.saslib 
+2017-04-11 02:55:33,621 [ 616173]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.io.sas.saslib failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.io.sas.saslib' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:33,621 [ 616173]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.json 
+2017-04-11 02:55:36,252 [ 618804]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.json failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.json' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:36,252 [ 618804]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.lib 
+2017-04-11 02:55:38,936 [ 621488]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.lib failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.lib' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:38,936 [ 621488]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.msgpack._packer 
+2017-04-11 02:55:41,577 [ 624129]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.msgpack._packer failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.msgpack._packer' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:41,577 [ 624129]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.msgpack._unpacker 
+2017-04-11 02:55:44,256 [ 626808]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.msgpack._unpacker failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.msgpack._unpacker' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:44,256 [ 626808]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.parser 
+2017-04-11 02:55:47,021 [ 629573]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.parser failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.parser' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:47,021 [ 629573]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.tslib 
+2017-04-11 02:55:49,865 [ 632417]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.tslib failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.tslib' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:49,865 [ 632417]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pandas.util._move 
+2017-04-11 02:55:52,533 [ 635085]   INFO - .skeletons.PySkeletonGenerator - Skeleton for pandas.util._move failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'pandas.util._move' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 02:55:52,533 [ 635085]   INFO - .skeletons.PySkeletonRefresher - Skeleton for perfmon 
+2017-04-11 02:55:52,830 [ 635382]   INFO - .skeletons.PySkeletonRefresher - Skeleton for psutil._psutil_windows 
+2017-04-11 02:55:53,439 [ 635991]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pycosat 
+2017-04-11 02:55:53,720 [ 636272]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pycurl 
+2017-04-11 02:55:54,189 [ 636741]   INFO - .skeletons.PySkeletonRefresher - Skeleton for pyexpat 
+2017-04-11 02:55:54,470 [ 637022]   INFO - .skeletons.PySkeletonRefresher - Skeleton for ruamel_yaml._ruamel_yaml 
+2017-04-11 02:55:55,283 [ 637835]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.cluster._hierarchy 
+2017-04-11 02:55:56,580 [ 639132]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.cluster._vq 
+2017-04-11 02:55:57,736 [ 640288]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.fftpack._fftpack 
+2017-04-11 02:55:58,845 [ 641397]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.fftpack.convolve 
+2017-04-11 02:55:59,798 [ 642350]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.integrate._dop 
+2017-04-11 02:56:01,220 [ 643772]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.integrate._odepack 
+2017-04-11 02:56:02,658 [ 645210]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.integrate._quadpack 
+2017-04-11 02:56:04,080 [ 646632]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.integrate._test_multivariate 
+2017-04-11 02:56:05,502 [ 648054]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.integrate._test_odeint_banded 
+2017-04-11 02:56:06,978 [ 649530]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.integrate.lsoda 
+2017-04-11 02:56:08,415 [ 650967]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.integrate.vode 
+2017-04-11 02:56:09,822 [ 652374]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.interpolate._fitpack 
+2017-04-11 02:56:11,369 [ 653921]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.interpolate._interpolate 
+2017-04-11 02:56:12,892 [ 655444]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.interpolate._ppoly 
+2017-04-11 02:56:14,392 [ 656944]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.interpolate.dfitpack 
+2017-04-11 02:56:16,001 [ 658553]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.interpolate.interpnd 
+2017-04-11 02:56:17,492 [ 660044]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.io.matlab.mio5_utils 
+2017-04-11 02:56:19,117 [ 661669]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.io.matlab.mio_utils 
+2017-04-11 02:56:20,586 [ 663138]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.io.matlab.streams 
+2017-04-11 02:56:22,035 [ 664587]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg._calc_lwork 
+2017-04-11 02:56:23,145 [ 665697]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg._decomp_update 
+2017-04-11 02:56:24,160 [ 666712]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg._fblas 
+2017-04-11 02:56:25,895 [ 668447]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg._flapack 
+2017-04-11 02:56:28,379 [ 670931]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg._flinalg 
+2017-04-11 02:56:29,442 [ 671994]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg._interpolative 
+2017-04-11 02:56:30,739 [ 673291]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg._solve_toeplitz 
+2017-04-11 02:56:31,770 [ 674322]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg.cython_blas 
+2017-04-11 02:56:32,785 [ 675337]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.linalg.cython_lapack 
+2017-04-11 02:56:34,004 [ 676556]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.ndimage._nd_image 
+2017-04-11 02:56:35,582 [ 678134]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.ndimage._ni_label 
+2017-04-11 02:56:37,000 [ 679552]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.odr.__odrpack 
+2017-04-11 02:56:38,084 [ 680636]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize._cobyla 
+2017-04-11 02:56:39,522 [ 682074]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize._group_columns 
+2017-04-11 02:56:40,897 [ 683449]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize._lbfgsb 
+2017-04-11 02:56:42,319 [ 684871]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize._lsq.givens_elimination 
+2017-04-11 02:56:43,699 [ 686251]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize._minpack 
+2017-04-11 02:56:45,137 [ 687689]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize._nnls 
+2017-04-11 02:56:46,574 [ 689126]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize._slsqp 
+2017-04-11 02:56:47,996 [ 690548]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize._zeros 
+2017-04-11 02:56:49,403 [ 691955]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize.minpack2 
+2017-04-11 02:56:50,840 [ 693392]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.optimize.moduleTNC 
+2017-04-11 02:56:52,257 [ 694809]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.signal._max_len_seq_inner 
+2017-04-11 02:56:54,648 [ 697200]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.signal._spectral 
+2017-04-11 02:56:56,554 [ 699106]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.signal._upfirdn_apply 
+2017-04-11 02:56:58,445 [ 700997]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.signal.sigtools 
+2017-04-11 02:57:00,351 [ 702903]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.signal.spline 
+2017-04-11 02:57:02,289 [ 704841]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse._csparsetools 
+2017-04-11 02:57:03,336 [ 705888]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse._sparsetools 
+2017-04-11 02:57:04,367 [ 706919]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse.csgraph._min_spanning_tree 
+2017-04-11 02:57:05,383 [ 707935]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse.csgraph._reordering 
+2017-04-11 02:57:06,398 [ 708950]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse.csgraph._shortest_path 
+2017-04-11 02:57:07,441 [ 709993]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse.csgraph._tools 
+2017-04-11 02:57:08,468 [ 711020]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse.csgraph._traversal 
+2017-04-11 02:57:09,499 [ 712051]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse.linalg.dsolve._superlu 
+2017-04-11 02:57:10,921 [ 713473]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse.linalg.eigen.arpack._arpack 
+2017-04-11 02:57:12,468 [ 715020]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.sparse.linalg.isolve._iterative 
+2017-04-11 02:57:14,015 [ 716567]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.spatial._distance_wrap 
+2017-04-11 02:57:15,160 [ 717712]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.spatial.ckdtree 
+2017-04-11 02:57:16,348 [ 718900]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.spatial.qhull 
+2017-04-11 02:57:17,528 [ 720080]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.special._comb 
+2017-04-11 02:57:18,919 [ 721471]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.special._ellip_harm_2 
+2017-04-11 02:57:20,294 [ 722846]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.special._ufuncs 
+2017-04-11 02:57:22,742 [ 725294]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.special._ufuncs_cxx 
+2017-04-11 02:57:24,117 [ 726669]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.special.specfun 
+2017-04-11 02:57:25,602 [ 728154]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.stats._stats 
+2017-04-11 02:57:27,274 [ 729826]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.stats.mvn 
+2017-04-11 02:57:28,930 [ 731482]   INFO - .skeletons.PySkeletonRefresher - Skeleton for scipy.stats.statlib 
+2017-04-11 02:57:30,602 [ 733154]   INFO - .skeletons.PySkeletonRefresher - Skeleton for select 
+2017-04-11 02:57:30,899 [ 733451]   INFO - .skeletons.PySkeletonRefresher - Skeleton for servicemanager 
+2017-04-11 02:57:31,196 [ 733748]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sip 
+2017-04-11 02:57:31,461 [ 734013]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage._shared.geometry 
+2017-04-11 02:57:32,493 [ 735045]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage._shared.interpolation 
+2017-04-11 02:57:33,555 [ 736107]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage._shared.transform 
+2017-04-11 02:57:34,618 [ 737170]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.draw._draw 
+2017-04-11 02:57:36,461 [ 739013]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.external.tifffile._tifffile 
+2017-04-11 02:57:37,535 [ 740087]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.feature._hessian_det_appx 
+2017-04-11 02:57:41,397 [ 743949]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.feature._hoghistogram 
+2017-04-11 02:57:43,834 [ 746386]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.feature._texture 
+2017-04-11 02:57:46,887 [ 749439]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.feature.brief_cy 
+2017-04-11 02:57:49,309 [ 751861]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.feature.censure_cy 
+2017-04-11 02:57:51,700 [ 754252]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.feature.corner_cy 
+2017-04-11 02:57:54,273 [ 756825]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.feature.orb_cy 
+2017-04-11 02:57:56,863 [ 759415]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.filters._ctmf 
+2017-04-11 02:57:58,973 [ 761525]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.filters.rank.bilateral_cy 
+2017-04-11 02:58:01,129 [ 763681]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.filters.rank.core_cy 
+2017-04-11 02:58:03,145 [ 765697]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.filters.rank.generic_cy 
+2017-04-11 02:58:05,145 [ 767697]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.filters.rank.percentile_cy 
+2017-04-11 02:58:07,156 [ 769708]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.future.graph._ncut_cy 
+2017-04-11 02:58:10,902 [ 773454]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.graph._mcp 
+2017-04-11 02:58:12,012 [ 774564]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.graph._spath 
+2017-04-11 02:58:13,012 [ 775564]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.graph.heap 
+2017-04-11 02:58:14,012 [ 776564]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.io._plugins._colormixer 
+2017-04-11 02:58:18,982 [ 781534]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.io._plugins._histograms 
+2017-04-11 02:58:22,008 [ 784560]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.measure._ccomp 
+2017-04-11 02:58:23,993 [ 786545]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.measure._find_contours_cy 
+2017-04-11 02:58:26,008 [ 788560]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.measure._marching_cubes_cy 
+2017-04-11 02:58:27,977 [ 790529]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.measure._moments_cy 
+2017-04-11 02:58:29,930 [ 792482]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.measure._pnpoly 
+2017-04-11 02:58:31,884 [ 794436]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.morphology._convex_hull 
+2017-04-11 02:58:34,243 [ 796795]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.morphology._greyreconstruct 
+2017-04-11 02:58:36,602 [ 799154]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.morphology._skeletonize_3d_cy 
+2017-04-11 02:58:38,957 [ 801509]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.morphology._skeletonize_cy 
+2017-04-11 02:58:41,282 [ 803834]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.morphology._watershed 
+2017-04-11 02:58:43,641 [ 806193]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.restoration._denoise_cy 
+2017-04-11 02:58:45,657 [ 808209]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.restoration._nl_means_denoising 
+2017-04-11 02:58:47,617 [ 810169]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.restoration._unwrap_1d 
+2017-04-11 02:58:49,586 [ 812138]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.restoration._unwrap_2d 
+2017-04-11 02:58:51,539 [ 814091]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.restoration._unwrap_3d 
+2017-04-11 02:58:53,519 [ 816071]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.segmentation._felzenszwalb_cy 
+2017-04-11 02:58:55,941 [ 818493]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.segmentation._quickshift 
+2017-04-11 02:58:58,347 [ 820899]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.segmentation._slic 
+2017-04-11 02:59:00,738 [ 823290]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.transform._hough_transform 
+2017-04-11 02:59:03,019 [ 825571]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.transform._radon_transform 
+2017-04-11 02:59:05,300 [ 827852]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.transform._seam_carving 
+2017-04-11 02:59:07,593 [ 830145]   INFO - .skeletons.PySkeletonRefresher - Skeleton for skimage.transform._warps_cy 
+2017-04-11 02:59:09,874 [ 832426]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.__check_build._check_build 
+2017-04-11 02:59:12,130 [ 834682]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn._isotonic 
+2017-04-11 02:59:14,099 [ 836651]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.cluster._dbscan_inner 
+2017-04-11 02:59:17,776 [ 840328]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.cluster._hierarchical 
+2017-04-11 02:59:20,261 [ 842813]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.cluster._k_means 
+2017-04-11 02:59:22,741 [ 845293]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.cluster._k_means_elkan 
+2017-04-11 02:59:25,209 [ 847761]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.datasets._svmlight_format 
+2017-04-11 02:59:27,491 [ 850043]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.decomposition._online_lda 
+2017-04-11 02:59:29,881 [ 852433]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.decomposition.cdnmf_fast 
+2017-04-11 02:59:32,303 [ 854855]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.ensemble._gradient_boosting 
+2017-04-11 02:59:34,741 [ 857293]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.feature_extraction._hashing 
+2017-04-11 02:59:36,788 [ 859340]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.linear_model.cd_fast 
+2017-04-11 02:59:39,159 [ 861711]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.linear_model.sag_fast 
+2017-04-11 02:59:41,472 [ 864024]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.linear_model.sgd_fast 
+2017-04-11 02:59:43,913 [ 866465]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.manifold._barnes_hut_tsne 
+2017-04-11 02:59:46,351 [ 868903]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.manifold._utils 
+2017-04-11 02:59:48,779 [ 871331]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.metrics.cluster.expected_mutual_info_fast 
+2017-04-11 02:59:50,873 [ 873425]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.metrics.pairwise_fast 
+2017-04-11 02:59:52,932 [ 875484]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.neighbors.ball_tree 
+2017-04-11 02:59:55,073 [ 877625]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.neighbors.dist_metrics 
+2017-04-11 02:59:57,213 [ 879765]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.neighbors.kd_tree 
+2017-04-11 02:59:59,338 [ 881890]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.neighbors.typedefs 
+2017-04-11 03:00:01,448 [ 884000]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.svm.liblinear 
+2017-04-11 03:00:03,792 [ 886344]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.svm.libsvm 
+2017-04-11 03:00:06,151 [ 888703]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.svm.libsvm_sparse 
+2017-04-11 03:00:08,475 [ 891027]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.tree._criterion 
+2017-04-11 03:00:10,709 [ 893261]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.tree._splitter 
+2017-04-11 03:00:12,897 [ 895449]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.tree._tree 
+2017-04-11 03:00:15,102 [ 897654]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.tree._utils 
+2017-04-11 03:00:17,305 [ 899857]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils._logistic_sigmoid 
+2017-04-11 03:00:19,258 [ 901810]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils._random 
+2017-04-11 03:00:21,202 [ 903754]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.arrayfuncs 
+2017-04-11 03:00:23,135 [ 905687]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.fast_dict 
+2017-04-11 03:00:25,120 [ 907672]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.graph_shortest_path 
+2017-04-11 03:00:27,057 [ 909609]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.lgamma 
+2017-04-11 03:00:29,026 [ 911578]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.murmurhash 
+2017-04-11 03:00:30,948 [ 913500]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.seq_dataset 
+2017-04-11 03:00:32,901 [ 915453]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.sparsefuncs_fast 
+2017-04-11 03:00:34,870 [ 917422]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.sparsetools._graph_tools 
+2017-04-11 03:00:36,850 [ 919402]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.sparsetools._traversal 
+2017-04-11 03:00:38,835 [ 921387]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sklearn.utils.weight_vector 
+2017-04-11 03:00:40,772 [ 923324]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sqlalchemy.cprocessors 
+2017-04-11 03:00:42,538 [ 925090]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sqlalchemy.cresultproxy 
+2017-04-11 03:00:43,397 [ 925949]   INFO - .skeletons.PySkeletonRefresher - Skeleton for sqlalchemy.cutils 
+2017-04-11 03:00:44,273 [ 926825]   INFO - .skeletons.PySkeletonRefresher - Skeleton for statsmodels.nonparametric._smoothers_lowess 
+2017-04-11 03:00:48,007 [ 930559]   INFO - .skeletons.PySkeletonGenerator - Skeleton for statsmodels.nonparametric._smoothers_lowess failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'statsmodels.nonparametric._smoothers_lowess' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 03:00:48,007 [ 930559]   INFO - .skeletons.PySkeletonRefresher - Skeleton for statsmodels.nonparametric.linbin 
+2017-04-11 03:00:51,624 [ 934176]   INFO - .skeletons.PySkeletonGenerator - Skeleton for statsmodels.nonparametric.linbin failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'statsmodels.nonparametric.linbin' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 03:00:51,624 [ 934176]   INFO - .skeletons.PySkeletonRefresher - Skeleton for statsmodels.tsa.kalmanf.kalman_loglike 
+2017-04-11 03:00:55,261 [ 937813]   INFO - .skeletons.PySkeletonGenerator - Skeleton for statsmodels.tsa.kalmanf.kalman_loglike failed on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Failed to process 'statsmodels.tsa.kalmanf.kalman_loglike' while nothing yet: dictionary changed size during iteration
+-- 
+2017-04-11 03:00:55,261 [ 937813]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tables._comp_bzip2 
+2017-04-11 03:00:57,420 [ 939972]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tables._comp_lzo 
+2017-04-11 03:00:58,685 [ 941237]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tables.hdf5extension 
+2017-04-11 03:00:59,920 [ 942472]   INFO - .skeletons.PySkeletonGenerator - Skeleton for tables.hdf5extension had some minor errors on C:\Users\austi\Anaconda3\python.exe. stderr: --
+Error generating skeleton for function namedtuple: Function has keyword-only parameters or annotations, use getfullargspec() API which can support them
+-- 
+2017-04-11 03:00:59,920 [ 942472]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tables.indexesextension 
+2017-04-11 03:01:01,123 [ 943675]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tables.linkextension 
+2017-04-11 03:01:02,310 [ 944862]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tables.lrucacheextension 
+2017-04-11 03:01:03,514 [ 946066]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tables.tableextension 
+2017-04-11 03:01:04,732 [ 947284]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tables.utilsextension 
+2017-04-11 03:01:05,982 [ 948534]   INFO - .skeletons.PySkeletonRefresher - Skeleton for timer 
+2017-04-11 03:01:06,295 [ 948847]   INFO - .skeletons.PySkeletonRefresher - Skeleton for tornado.speedups 
+2017-04-11 03:01:06,561 [ 949113]   INFO - .skeletons.PySkeletonRefresher - Skeleton for unicodedata 
+2017-04-11 03:01:06,837 [ 949389]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win2kras 
+2017-04-11 03:01:07,197 [ 949749]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32api 
+2017-04-11 03:01:07,494 [ 950046]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32clipboard 
+2017-04-11 03:01:07,791 [ 950343]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32console 
+2017-04-11 03:01:08,134 [ 950686]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32cred 
+2017-04-11 03:01:08,509 [ 951061]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32crypt 
+2017-04-11 03:01:08,791 [ 951343]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32event 
+2017-04-11 03:01:09,088 [ 951640]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32evtlog 
+2017-04-11 03:01:09,400 [ 951952]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32file 
+2017-04-11 03:01:09,713 [ 952265]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32gui 
+2017-04-11 03:01:10,056 [ 952608]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32help 
+2017-04-11 03:01:10,338 [ 952890]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32inet 
+2017-04-11 03:01:10,650 [ 953202]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32job 
+2017-04-11 03:01:10,947 [ 953499]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32lz 
+2017-04-11 03:01:11,275 [ 953827]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32net 
+2017-04-11 03:01:11,588 [ 954140]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32pdh 
+2017-04-11 03:01:11,947 [ 954499]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32pipe 
+2017-04-11 03:01:12,259 [ 954811]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32print 
+2017-04-11 03:01:12,541 [ 955093]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32process 
+2017-04-11 03:01:12,822 [ 955374]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32profile 
+2017-04-11 03:01:13,119 [ 955671]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32ras 
+2017-04-11 03:01:13,384 [ 955936]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32security 
+2017-04-11 03:01:13,744 [ 956296]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32service 
+2017-04-11 03:01:14,056 [ 956608]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32trace 
+2017-04-11 03:01:14,353 [ 956905]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32transaction 
+2017-04-11 03:01:14,635 [ 957187]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32ts 
+2017-04-11 03:01:14,978 [ 957530]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32ui 
+2017-04-11 03:01:15,365 [ 957917]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32uiole 
+2017-04-11 03:01:15,725 [ 958277]   INFO - .skeletons.PySkeletonRefresher - Skeleton for win32wnet 
+2017-04-11 03:01:16,037 [ 958589]   INFO - .skeletons.PySkeletonRefresher - Skeleton for winsound 
+2017-04-11 03:01:16,334 [ 958886]   INFO - .skeletons.PySkeletonRefresher - Skeleton for winxpgui 
+2017-04-11 03:01:16,756 [ 959308]   INFO - .skeletons.PySkeletonRefresher - Skeleton for wrapt._wrappers 
+2017-04-11 03:01:17,131 [ 959683]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython._device 
+2017-04-11 03:01:17,678 [ 960230]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython._poll 
+2017-04-11 03:01:18,225 [ 960777]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython._version 
+2017-04-11 03:01:18,756 [ 961308]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython.constants 
+2017-04-11 03:01:19,303 [ 961855]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython.context 
+2017-04-11 03:01:19,850 [ 962402]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython.error 
+2017-04-11 03:01:20,459 [ 963011]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython.message 
+2017-04-11 03:01:21,194 [ 963746]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython.socket 
+2017-04-11 03:01:21,947 [ 964499]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.backend.cython.utils 
+2017-04-11 03:01:22,619 [ 965171]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.devices.monitoredqueue 
+2017-04-11 03:01:23,228 [ 965780]   INFO - .skeletons.PySkeletonRefresher - Skeleton for zmq.libzmq 
+2017-04-11 03:01:23,759 [ 966311]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 850251 ms 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - Some skeletons failed to generate 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - 22 modules failed in 1 interpreter. <a href="#">Details...</a> 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - Failed modules 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - dde 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - matplotlib.backends._tkagg 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas._hash 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas._join 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas._period 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas._sparse 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas._testing 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas._window 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.algos 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.hashtable 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.index 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.io.sas.saslib 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.json 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.lib 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.msgpack._packer 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.msgpack._unpacker 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.parser 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.tslib 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - pandas.util._move 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - statsmodels.nonparametric._smoothers_lowess 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - statsmodels.nonparametric.linbin 
+2017-04-11 03:01:23,759 [ 966311]   WARN - .skeletons.PySkeletonRefresher - statsmodels.tsa.kalmanf.kalman_loglike 
+2017-04-11 03:01:23,759 [ 966311]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6.0 (C:\Users\austi\Anaconda3\python.exe) (C:\Users\austi\Anaconda3\python.exe) 
+2017-04-11 03:01:27,197 [ 969749]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: C:\Users\austi\Anaconda3\python.exe C:\Program Files (x86)\JetBrains\PyCharm 2017.1\helpers\packaging_tool.py list 
+2017-04-11 03:01:27,994 [ 970546]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6.0 (C:\Users\austi\Anaconda3\python.exe) (C:\Users\austi\Anaconda3\python.exe) 
+2017-04-11 03:01:27,994 [ 970546]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for C:\Users\austi\Anaconda3\python.exe 
+2017-04-11 03:01:31,744 [ 974296]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 3750 ms 
+2017-04-11 03:01:31,744 [ 974296]   INFO - .skeletons.PySkeletonRefresher - Home path is C:\Program Files (x86)\JetBrains\PyCharm 2017.1 
+2017-04-11 03:01:31,744 [ 974296]   INFO - .skeletons.PySkeletonRefresher - Pregenerated skeletons root is C:\Program Files (x86)\JetBrains\PyCharm 2017.1\skeletons 
+2017-04-11 03:01:31,744 [ 974296]   INFO - .skeletons.PySkeletonRefresher - Not found pregenerated skeletons at C:\Program Files (x86)\JetBrains\PyCharm 2017.1\skeletons\skeletons-win-401-python-3.6.0.zip 
+2017-04-11 03:01:33,431 [ 975983]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 1625 ms 
+2017-04-11 03:01:41,987 [ 984539]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6.0 (C:\Users\austi\Anaconda3\python.exe) (C:\Users\austi\Anaconda3\python.exe) 
+2017-04-11 03:01:43,378 [ 985930]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: C:\Users\austi\Anaconda3\python.exe C:\Program Files (x86)\JetBrains\PyCharm 2017.1\helpers\packaging_tool.py list 
+2017-04-11 14:10:50,097 [41132649]   INFO - .diagnostic.PerformanceWatcher - Find Usages took 1272ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-04-11 17:52:37,963 [54440515]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: C:\Users\austi\Anaconda3\python.exe C:\Program Files (x86)\JetBrains\PyCharm 2017.1\helpers\packaging_tool.py list 
+2017-04-12 01:23:44,242 [81506794]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 392 ms 
+2017-04-12 01:24:05,263 [81527815]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2017-04-12 01:24:05,264 [81527816]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2017-04-12 01:24:05,329 [81527881]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-04-12 01:24:05,342 [81527894]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 10493 auto-detected files
+Elapsed time on auto-detect: 213163 ms 
+2017-04-12 01:24:06,355 [81528907]   WARN - pl.local.NativeFileWatcherImpl - File watcher is still alive. Doing a force quit. 
+2017-04-12 01:24:06,458 [81529010]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2017-04-12 01:24:06,590 [81529142]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2017-04-12 01:24:13,055 [81535607]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2017-04-12 01:24:13,303 [81535855]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2017-04-12 01:24:13,323 [81535875]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2017-04-12 01:24:14,575 [81537127]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2017-04-12 01:24:14,586 [81537138]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

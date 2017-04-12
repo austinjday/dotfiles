@@ -7,7 +7,8 @@
       <entry feature="cidr.newFile.addedToProject" count="2" />
       <entry feature="cidr.newFile.cppClass" count="1" />
       <entry feature="execute.CMakeRunConfiguration.Run" count="20" />
-      <entry feature="ideaapp.started" count="6" />
+      <entry feature="ide.settings.External_Tools" count="1" />
+      <entry feature="ideaapp.started" count="7" />
       <entry feature="welcome.screen.ImportCMakeProject" count="4" />
       <entry feature="welcome.screen.null" count="1" />
     </counts>

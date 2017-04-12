@@ -1,0 +1,25 @@
+# PyCharm failed to generate skeletons for these modules.
+# These skeletons will be re-generated automatically
+# when a newer module version or an updated generator becomes available.
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\_join.cp36-win_amd64.pyd = 1.145 1483656027000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\msgpack\_packer.cp36-win_amd64.pyd = 1.145 1483656059000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\_hash.cp36-win_amd64.pyd = 1.145 1483656055000
+C:\Users\austi\Anaconda3\lib\site-packages\statsmodels\nonparametric\_smoothers_lowess.cp36-win_amd64.pyd = 1.145 1482557100000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\util\_move.cp36-win_amd64.pyd = 1.145 1483656062000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\_testing.cp36-win_amd64.pyd = 1.145 1483656054000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\io\sas\saslib.cp36-win_amd64.pyd = 1.145 1483656058000
+C:\Users\austi\Anaconda3\lib\site-packages\statsmodels\tsa\kalmanf\kalman_loglike.cp36-win_amd64.pyd = 1.145 1482557099000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\json.cp36-win_amd64.pyd = 1.145 1483656062000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\hashtable.cp36-win_amd64.pyd = 1.145 1483655949000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\_period.cp36-win_amd64.pyd = 1.145 1483655990000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\algos.cp36-win_amd64.pyd = 1.145 1483656020000
+C:\Users\austi\Anaconda3\lib\site-packages\matplotlib\backends\_tkagg.cp36-win_amd64.pyd = 1.145 1485207016000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\parser.cp36-win_amd64.pyd = 1.145 1483656044000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\_window.cp36-win_amd64.pyd = 1.145 1483656037000
+C:\Users\austi\Anaconda3\lib\site-packages\statsmodels\nonparametric\linbin.cp36-win_amd64.pyd = 1.145 1482557099000
+C:\Users\austi\Anaconda3\lib\site-packages\Pythonwin\dde.pyd = 1.145 1484499569000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\index.cp36-win_amd64.pyd = 1.145 1483655993000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\tslib.cp36-win_amd64.pyd = 1.145 1483655985000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\_sparse.cp36-win_amd64.pyd = 1.145 1483656052000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\lib.cp36-win_amd64.pyd = 1.145 1483655944000
+C:\Users\austi\Anaconda3\lib\site-packages\pandas\msgpack\_unpacker.cp36-win_amd64.pyd = 1.145 1483656061000
